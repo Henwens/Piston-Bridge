@@ -1,0 +1,7 @@
+body {
+  background-image: url('https://github.com/Henwens/Piston-Bridge/blob/main/logo.png?raw=true');
+  background-size: cover;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  color: #ffffff; /* This makes your text white so it's easier to read on a background */
+}
