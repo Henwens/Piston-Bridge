@@ -19,3 +19,5 @@
 1. **Download**: Click the **Download Installer** button above.
 2. **Install**: Run `pistonsetup.exe` (look for the Piston icon!).
 3. **Java Check**: Ensure you have **Java 21** installed.
+
+4. Piston Bridge currently only allows you to join cracked java servers unless you have a java account.
