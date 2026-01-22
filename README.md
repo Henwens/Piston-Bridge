@@ -22,7 +22,7 @@
 
 4. Piston Bridge currently only allows you to join cracked java servers unless you have a java account.
 
-Defult ip and port are 
+Defualt ip and port are 
 127.0.0.1
 
 19132
