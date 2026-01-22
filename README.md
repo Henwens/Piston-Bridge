@@ -21,3 +21,8 @@
 3. **Java Check**: Ensure you have **Java 21** installed.
 
 4. Piston Bridge currently only allows you to join cracked java servers unless you have a java account.
+
+Defult ip and port are 
+127.0.0.1
+
+19132
